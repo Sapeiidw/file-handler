@@ -1,0 +1,16 @@
+.venv/
+node_modules/
+dist/
+data/
+models/*
+!models/.gitkeep
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+deploy/nginx.conf
+.env
+
+frontend/public/api-docs/
+playwright-report/
+test-results/

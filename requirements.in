@@ -1,0 +1,7 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+python-multipart>=0.0.20
+pillow>=12
+pillow-heif>=1
+numpy>=2,<3
+onnxruntime>=1.23,<2
